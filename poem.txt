@@ -1,4 +1,4 @@
-The Rainbow and the Avocado
+The Rainbow and the Avocado and the ginger
 
 pink
 orange
@@ -6,4 +6,6 @@ blue
 red
 Green
 Yellow
+ginger
+cumen
 These are the colors of the rainbow
